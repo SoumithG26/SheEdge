@@ -1,0 +1,5 @@
+# Ignore the Python virtual environment
+venv1/
+
+# Ignore node_modules everywhere (including inside AppFolder)
+node_modules/
