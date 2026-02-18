@@ -3,3 +3,12 @@ venv1/
 
 # Ignore node_modules everywhere (including inside AppFolder)
 node_modules/
+
+# python cache / metadata
+__pycache__/
+*.pyc
+*.pyo
+
+# model artifacts (optional)
+*.weights
+*.cfg
