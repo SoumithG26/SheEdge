@@ -310,7 +310,6 @@ camera.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)  # Change from 480
 
 ---
 
-## 🎓 For Hackathon Judges
 
 ### Demonstration Points
 
@@ -393,6 +392,6 @@ If you see:
 
 ---
 
-**Project for**: SUDHEE 2026 - Emerging Technologies Led by Women
+**Project for**: SUDHEE 2026 - Emerging Technologies Led by Women (IDEATHON)
 **Organized by**: IEEE CBIT, IEEE WIE Hyderabad Section
 **Supported by**: AICTE Idea Lab, CBIT
